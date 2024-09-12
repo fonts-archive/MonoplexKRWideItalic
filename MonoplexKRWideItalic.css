@@ -5,6 +5,7 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-Thin.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-Thin.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-Thin.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-Thin.ttf') format('truetype');
 }
 @font-face {
@@ -14,6 +15,7 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-ExtraLight.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-ExtraLight.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-ExtraLight.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-ExtraLight.ttf') format('truetype');
 }
 @font-face {
@@ -23,6 +25,7 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-Light.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-Light.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-Light.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-Light.ttf') format('truetype');
 }
 @font-face {
@@ -32,6 +35,7 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-Regular.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-Regular.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-Regular.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-Regular.ttf') format('truetype');
 }
 @font-face {
@@ -41,6 +45,7 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-Medium.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-Medium.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-Medium.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-Medium.ttf') format('truetype');
 }
 @font-face {
@@ -50,6 +55,7 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-SemiBold.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-SemiBold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-SemiBold.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-SemiBold.ttf') format('truetype');
 }
 @font-face {
@@ -59,6 +65,7 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-Bold.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-Bold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-Bold.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-Bold.ttf') format('truetype');
 }
 @font-face {
@@ -68,5 +75,6 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-ExtraBold.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-ExtraBold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-ExtraBold.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideItalic/MonoplexKRWideItalic-ExtraBold.ttf') format('truetype');
 }
